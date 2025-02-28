@@ -7,7 +7,7 @@ int main(){
 	int byear, day, age;
 	
 	//Asking user to input name
-	cout<<" When is your name? ";
+	cout<<" What is your name? ";
 	cin>>name;
 	
 	//Asking user birthdate
